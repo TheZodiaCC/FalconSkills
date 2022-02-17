@@ -1,7 +1,7 @@
 # FalconSkills
 
 ### Description
-Skill Book System for unreleased `FalconModPack` for `DayZ 1.11`.
+Skill Book System for unreleased `FalconModPack` for `DayZ 1.15`.
 
 Models by https://github.com/JakubPPawlak
 

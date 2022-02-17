@@ -3,6 +3,8 @@
 ### Description
 Skill Book System for unreleased `FalconModPack` for `DayZ 1.11`.
 
+Models by https://github.com/JakubPPawlak
+
 ### Setup
 1. Create `FS` directory inside your server profile (directory for saving player stats)
 2. Copy `FSvalues.json` to `<your_server_profile>/FValues/FSvalues.json`
